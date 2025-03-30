@@ -1,6 +1,6 @@
 # 📂 Huffman File Compressor
 
-A web-based file compression tool using Huffman Encoding. Upload a text file, compress it efficiently, and download the compressed version while preserving the original content.
+A web-based file compression tool using Huffman Encoding. Upload a text file, compress it efficiently, and download the compressed version (in bits) while preserving the original content.
 
 ## 🚀 Features
 - Compresses text files using Huffman Encoding.
