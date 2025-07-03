@@ -28,8 +28,8 @@ A web-based file compression tool using Huffman Encoding. Upload a text file, co
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/huffman-file-compressor.git
-   cd huffman-file-compressor
+   git clone https://github.com/krishnasharma2005/Huffman_File_Compression.git
+   cd Huffman_File_Compresion
 
 2. Run the backend:
    ```bash
